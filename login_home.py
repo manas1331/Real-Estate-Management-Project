@@ -76,7 +76,7 @@ def main_content():
         "My Properties": "views/my_property.py",
         "Buy": "views/buy.py",
         "Sell": "views/sell.py",
-        "Chatbot":"views\chatbot.py",
+        # "Chatbot":"views\chatbot.py",
         "Complaints": "views/complaint.py",
         "Logout": "views/logout.py"
     }
