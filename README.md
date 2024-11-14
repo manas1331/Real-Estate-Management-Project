@@ -43,7 +43,7 @@ Welcome to **Landmark Estates**, a streamlined real estate management platform b
 - MySQL Workbench - For managing database setup and queries.
   
 ## 📝 License
-This project is licensed under the MIT License, making it free to use, modify, and distribute.
+This project is licensed under the MIT License, making it free to use, modify, and distribute.See the license file [LICENSE](LICENSE).
 
 ## 🤝 Contributions
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
