@@ -12,7 +12,7 @@ def create_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Manas12345",
+        password="your password",
         database="flask_real"
     )
 
