@@ -123,13 +123,4 @@ FROM buy;
 
 -- Commit the transaction
 
-DELIMITER $$
-CREATE TRIGGER after_buying
-AFTER INSERT ON my_properties (property_name, address, price, property_id)
-FOR EACH ROW
-BEGIN
-INSERT INTO transactions (id, transaction_amount, transaction_date)
-VALUES (NEW.id, NEW.sale_price, NEW.sale_date);
-END$$
-
 COMMIT;
