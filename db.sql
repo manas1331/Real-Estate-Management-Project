@@ -1,4 +1,5 @@
 -- Switch to the database
+create database flask_real;
 USE flask_real;
 
 -- Drop existing tables if they exist
@@ -10,7 +11,7 @@ DROP TABLE IF EXISTS my_properties;  -- Added my_properties table
 DROP PROCEDURE IF EXISTS AddUser;
 
 -- Alter user password
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Manas12345';
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your password';
 FLUSH PRIVILEGES;
 
 -- Set session variables
