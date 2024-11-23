@@ -20,6 +20,7 @@ Welcome to **Landmark Estates**, a streamlined real estate management platform b
 
 - **Support**:
   - `Complaints` - A dedicated section to file complaints or support requests.
+  - `Chatbot` - A dedicated section to ask any queries to the chatbot which is based on gemini pro model.
 
 ## 🚀 Getting Started
 
