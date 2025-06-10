@@ -42,6 +42,7 @@ Welcome to **Landmark Estates**, a streamlined real estate management platform b
 - Streamlit - For creating the interactive web application.
 - MySQL - For secure data storage and management.
 - MySQL Workbench - For managing database setup and queries.
+- Gemini Model - For chatbot part.
 
 ## Website Preview
 
